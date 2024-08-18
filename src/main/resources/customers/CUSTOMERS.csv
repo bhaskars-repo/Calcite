@@ -1,0 +1,4 @@
+cid:int,name:string,email:string,mobile:string
+1,"Alice Doctor","alice.d@space.com","123-321-1000"
+2,"Bob Carpenter","bob.c@space.com","234-432-2000"
+3,"Charlie Painter", "charlie_p@space.com", "345-543-3000"
